@@ -8,7 +8,7 @@ I build things that shouldn't exist yet — apps, bots, models — mostly at mid
 
 ## 🚀 What I'm building
 
-**[STEMpathy](https://github.com/keerthikaa2228-AI/STEMpathy)** — AI-powered STEM learning & career discovery web app
+**STEMpathy** — AI-powered STEM learning & career discovery web app
 Solo-built. Gemini API + vanilla JS. Features NOVA (10-emotion AI mascot), quiz system, XP/streaks, age-split syllabuses across 7 STEM fields, and certificate generation.
 
 ---
@@ -43,7 +43,7 @@ Solo-built. Gemini API + vanilla JS. Features NOVA (10-emotion AI mascot), quiz 
 
 ## 📬 Connect
 
-[LinkedIn](https://linkedin.com/in/keerthikaa-muthuraja) · Chennai, India
+[LinkedIn]([https://linkedin.com/in/keerthikaa-muthuraja](https://www.linkedin.com/in/keerthikaa-muthuraja-7a70443b0/)) · Chennai, India
 
 ---
 
