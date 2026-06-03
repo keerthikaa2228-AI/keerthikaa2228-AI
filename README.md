@@ -43,7 +43,7 @@ Solo-built. Gemini API + vanilla JS. Features NOVA (10-emotion AI mascot), quiz 
 
 ## 📬 Connect
 
-[LinkedIn]((https://www.linkedin.com/in/keerthikaa-muthuraja-7a70443b0/)) · Chennai, India
+[LinkedIn](https://www.linkedin.com/in/keerthikaa-muthuraja-7a70443b0/) · Chennai, India
 
 ---
 
