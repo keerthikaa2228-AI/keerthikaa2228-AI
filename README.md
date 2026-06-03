@@ -21,7 +21,7 @@ Solo-built. Gemini API + vanilla JS. Features NOVA (10-emotion AI mascot), quiz 
 **[KANMANI](https://github.com/keerthikaa2228-AI/KANMANI-Obstacle-Avoiding-Bot)** Obstacle avoiding bot | Arduino, Ultrasonic sensor |
 **[VAANMANI](https://github.com/keerthikaa2228-AI/VAANMANI-Air-Pollution-Detector)** Air pollution detector mini humanoid | Arduino, MQ sensors |
 **[Heart Disease Prediction](https://github.com/keerthikaa2228-AI/Heart-Disease-Prediction)** DNN + RNN + LSTM models on Cleveland dataset — 95%+ accuracy | Python, TensorFlow, IoT (ESP32 + ECG + SpO2) |
-| **Titanic Survival Analysis** | EDA + ML classification | Python, Pandas, Sklearn |
+**[Titanic Survival Analysis](https://github.com/keerthikaa2228-AI/Titanic-Survival-Analysis)** EDA + ML classification | Python, Pandas, Sklearn |
 **[STEMpathy](https://github.com/keerthikaa2228-AI/STEMpathy)** AI STEM learning app (active) | Gemini API, Vanilla JS, HTML/CSS |
 
 ---
