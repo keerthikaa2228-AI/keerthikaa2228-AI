@@ -17,7 +17,7 @@ Solo-built. Gemini API + vanilla JS. Features NOVA (10-emotion AI mascot), quiz 
 
 | Project | What it is | Stack |
 |---|---|---|
-| **SPARK** | DIY desk pet robot — 13 OLED expressions, reacts to claps, falls asleep if ignored | ESP32, OLED, Sound sensor, C++ |
+**[SPARK](https://github.com/keerthikaa2228-AI/SPARK-desk-pet)** DIY desk pet robot — 13 OLED expressions, reacts to claps, falls asleep if ignored | ESP32, OLED, Sound sensor, C++ |
 | **KANMANI** | Obstacle avoiding bot | Arduino, Ultrasonic sensor |
 | **VAANMANI** | Air pollution detector mini humanoid | Arduino, MQ sensors |
 | **Heart Disease Prediction** | DNN + RNN + LSTM models on Cleveland dataset — 95%+ accuracy | Python, TensorFlow, IoT (ESP32 + ECG + SpO2) |
